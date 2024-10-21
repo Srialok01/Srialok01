@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alok Srivastav</h1>
-<h3 align="center">A passionate QA Automation tester from India</h3>
+<h3 align="center">A passionate SRE lead from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srialok01&label=Profile%20views&color=0e75b6&style=flat" alt="srialok01" /> </p>
 
